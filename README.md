@@ -1,2 +1,6 @@
 # Online-Retail-Dashboard
-This dashboard shows the trends in an online retail company to analyze key sales metrics to the stakeholders, as well as providing comprehensive insights for making informed decisions.
+Using Tableau, the analysis shows that there were inconsistencies in the trend and revenue rose and fell in the 1st and 2nd quarters of 2011, until the end of the 3rd quarter in September when the company recorded up to 1 million in revenue and this increased until November which was the highest record of revenue of over 1.5million which could have been as a result of a new product release but the company encountered a huge fall in revenue in December.
+
+The second visual shows that countries such as the Netherlands, Ireland, Germany, and France have high volumes of units bought and revenue generated. In the third visual, the data shows that at 280,206.02, customer ID - 14646 had the highest revenue of over 280,000. Across all Top 10 Customer IDs, revenue ranged from 33,720 to 280,206, and the lowest being customer ID - 12748, with revenue at 33,720. This shows that the bargaining power of customers is low and therefore the company is in a good position.
+
+Finally, the map shows that most of the revenue is made from the European regions with very few in America and none from other regions such as Asia, Russia, and Africa. It is advised that the company creates a new strategy targeting those areas that have the potential to boost sales revenues and profitability.
